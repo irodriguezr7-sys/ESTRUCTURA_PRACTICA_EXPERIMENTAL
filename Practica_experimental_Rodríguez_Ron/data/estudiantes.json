@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Pérez",
+    "email": "ana@unemi.edu.ec",
+    "carnet": "EST2026001",
+    "notas": {
+      "Matemática": [
+        18,
+        20
+      ],
+      "Inglés": [
+        16
+      ]
+    },
+    "materias": [
+      "Inglés",
+      "Matemática"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "Gómez",
+    "email": "luis@unemi.edu.ec",
+    "carnet": "EST2026002",
+    "notas": {},
+    "materias": [
+      "Historia",
+      "Matemática"
+    ]
+  }
+]
